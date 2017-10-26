@@ -10,7 +10,7 @@ This is a word score game.  The goal of the game is to get the most points by ma
 
 任务： 
  1. 写入逻辑以“结束游戏”，当所有的字母从包中取出使用，而且你已经释放了你的手。 编写Javascript以获取所有单词最高分（单词需要在字典"wordBank.js"中找到）。
- 2. 编写JavaScript以允许"_"下划线为通配符。它可以是任何一个缺失的字母，但"_"不计分。例如，如果我有字母“H”“E”“L”“S”“S”“\ _”“\ _”我可以使用“H”“E”“L”“ \ _“”\ _“。
+ 2. 编写JavaScript以允许"\_"下划线为通配符。它可以是任何一个缺失的字母，但"\_"不计分。例如，如果我有字母“H”“E”“L”“S”“S”“\ _”“\ _”我可以使用“H”“E”“L”“ \ _“”\ _“。
 （如果你更擅长其他编程语言，请使用任何语言）
  
 ## Bonus
@@ -23,13 +23,12 @@ This is a word score game.  The goal of the game is to get the most points by ma
  
  
 ## Guide 
-如果你熟悉Github的使用，请跳过以下阅读。
-1.下载源代码到本地
-https://github.com/jmatthes/word-score-game， 点击"Clone or Download"，下载zip包到本地。
+1.注册Github，打开项目源代码链接，点击"Fork"，拷贝一份到自己账号下。
+https://github.com/jmatthes/word-score-game
 2. 下载notepad或其他编辑器，打开源文件中的js文件
 3. 理解题目需求，阅读源代码，进行编译
 4. 打开index.html，验证编译效果
-5. 完成开发后，打包成.zip文件，发送给我们。或直接在你的github中创建项目，将连接发送给我们。hxuan1@its.jnj.com
+5. 完成开发后，上传编译后的所有文件到你的项目中，将连接发送给我们。也可以打包压缩成.zip，发送至hxuan1@its.jnj.com。
 
 ## Q&A
 联系我们
